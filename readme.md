@@ -16,6 +16,6 @@
 
 T กำลังนั่งเล่น แล้วพบว่าพรุ่งนี้สอบ Prob Solve. T จึงกินมะนาวและกลายร่างเป็น **มะนาวต่างนุด**.
 
-จากนั้น T ก็เกิดอาการแปลงประหลาด T จึงไปนอน
+จากนั้น T ก็เกิดอาการประหลาด T จึงไปนอน
 
 <img title="" src="https://raw.githubusercontent.com/L0rdT33z/Tee-Transformation/main/img/lemon.jpg" alt="match.jpg" width="515">
